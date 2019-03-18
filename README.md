@@ -1,4 +1,4 @@
-# Quora
+# Kaggle - Quora Insincere Questions Classification
 
 比赛链接：<https://www.kaggle.com/c/quora-insincere-questions-classification>
 
